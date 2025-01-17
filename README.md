@@ -1,4 +1,4 @@
-# 🔐 Formik Yup Login Page
+# 🔐 With Formik-Yup Login Page
 
 ## 📖 Project Overview
 🌍 This **Formik Yup Login Page** provides a simple and efficient way for users to log in using their email and password. 
